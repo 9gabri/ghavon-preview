@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 95" role="img" aria-label="GHAVON wordmark">
+  <g style="color:#000000" transform="translate(4 0)">
+<g id="wordmark" fill="none" stroke="currentColor" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter">
+  <!-- G -->
+  <path d="M 64 15 H 26 Q 12 15 12 29 V 65 Q 12 79 26 79 H 64 V 52 H 47" />
+  <!-- H -->
+  <path d="M 126 15 V 79 M 186 15 V 79 M 126 47 H 186" />
+  <!-- A -->
+  <path d="M 246 79 L 278 15 L 310 79 M 258 55 H 298" />
+  <!-- V -->
+  <path d="M 368 15 L 400 79 L 432 15" />
+  <!-- O -->
+  <path d="M 504 15 H 542 Q 556 15 556 29 V 65 Q 556 79 542 79 H 504 Q 490 79 490 65 V 29 Q 490 15 504 15 Z" />
+  <!-- N -->
+  <path d="M 620 79 V 15 L 684 79 V 15" />
+</g></g>
+</svg>
